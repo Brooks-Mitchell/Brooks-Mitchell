@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Brooks-Mitchell
-- 👀 I’m interested in transitioning from a sales career to Python Development
+- 👀 I’m working hard to transition from a sales career to Python Development
 - 🌱 I’m currently learning Python, Javascript, SQL, Git
 
 <!---
