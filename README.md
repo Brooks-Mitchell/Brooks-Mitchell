@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @Brooks-Mitchell
-- 👀 I’m working hard to transition from a sales career to software development
-- 🌱 I’m currently learning Python, JavaScript, SQL/PostgreSQL, Git
+- Hi, I’m @Brooks-Mitchell
+- I’m working hard to transition from a sales career to software development
+- Currently practicing Python, SQL/PostgreSQL, Git
+- Currently studying algorithms and data structure, test-driven development, design patterns
+
+- Next I'm learning: C#, AWS, CI/CD, and Docker
 
 <!---
 Brooks-Mitchell/Brooks-Mitchell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
