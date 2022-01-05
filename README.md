@@ -1,5 +1,5 @@
 Hi, I’m @Brooks-Mitchell
-I’m working hard to transition from a B2B SaaS sales career to software development
+I’m an Army veteran and non-STEM degree holder working hard to transition from a B2B SaaS sales career to software development.
 Began August 2021
 
 - Currently practicing Python, SQL/PostgreSQL, Git
