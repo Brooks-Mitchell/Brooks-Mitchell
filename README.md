@@ -4,7 +4,7 @@ I’m an Army veteran working hard to transition from a B2B SaaS sales career to
 
 - Excited to use my problem-solving skills and creativity to create products and services to deliver results
 - Graduating in May 2023 with a B.S. in Software Developement
-- Looking for a fullstack intership
+- Currently looking for entry-level full-stack opportunities! I'm also open to SDET and DevOps.
 
 
 
