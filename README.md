@@ -1,7 +1,5 @@
 # Hi, I’m Brooks
 
-I’m an Army veteran working hard to transition from a B2B SaaS sales career to software development.
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
